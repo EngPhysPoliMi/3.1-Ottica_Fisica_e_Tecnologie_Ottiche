@@ -1,6 +1,6 @@
-# x.y - Template
+# 3.1 - Ottica Fisica e Tecnologie Ottiche
 
-Repository for "Template".
+Repository for "Ottica Fisica e Tecnologie Ottiche".
 
 
 ## Use instructions
